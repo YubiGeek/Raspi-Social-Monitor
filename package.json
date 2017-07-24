@@ -1,0 +1,17 @@
+{
+  "name": "raspi-social-monitor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fb": "^2.0.0",
+    "google-tts-api": "0.0.1",
+    "instagram-node": "^0.5.8",
+    "node-schedule": "^1.2.3",
+    "play-sound": "^1.1.1",
+    "q": "^1.5.0",
+    "twitter": "^1.7.1"
+  }
+}
